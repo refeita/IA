@@ -1,6 +1,4 @@
 # IA
-Atividades Práticas da disciplina de inteligência artificial - UEPB
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/refeita/IA)
 
 📌 Sobre
